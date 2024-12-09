@@ -3,6 +3,7 @@ Huyền Thoại Cổ Đại
 Giới thiệu
 Huyền Thoại Cổ Đại là một trò chơi nhập vai (RPG) thế giới mở, đưa người chơi vào cuộc hành trình khám phá vùng đất bí ẩn đầy rẫy huyền thoại và thử thách. Với cốt truyện hấp dẫn, đồ họa mãn nhãn, và lối chơi sáng tạo, trò chơi hứa hẹn mang lại trải nghiệm khó quên.
 
+
 Tính năng chính
 🌍 Thế giới mở: Thám hiểm các vùng đất đa dạng từ rừng rậm u ám đến các sa mạc rực lửa.
 🛡️ Nhân vật tùy chỉnh: Lựa chọn từ nhiều chủng tộc, kỹ năng và trang bị để tạo ra chiến binh hoàn hảo.
@@ -11,18 +12,8 @@ Tính năng chính
 📜 Cốt truyện lôi cuốn: Từng bước mở khóa các bí mật cổ xưa, chống lại những thế lực đen tối đe dọa thế giới.
 Cách cài đặt
 Clone dự án từ GitHub:
-bash
-Sao chép mã
-git clone https://github.com/yourusername/huyen-thoai-co-dai.git
-Cài đặt các thư viện yêu cầu:
-bash
-Sao chép mã
-npm install
-Chạy trò chơi trên máy chủ cục bộ:
-bash
-Sao chép mã
-npm start
-Truy cập trò chơi qua trình duyệt tại http://localhost:3000.
+git clone https://github.com/NamJore04/BaoMatThongTin.git
+
 Yêu cầu hệ thống
 Hệ điều hành: Windows 10/11, macOS, Linux
 Bộ xử lý: Intel Core i3 hoặc tương đương
